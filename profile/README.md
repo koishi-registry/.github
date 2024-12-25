@@ -7,6 +7,16 @@
 <p align="center">United of Koishi Market Index'er</p>
 
 <h2 align="center">
+  Registry Sources
+</h2>
+
+- **[cyan-koishi-registry](https://github.com/koishi-registry/cyan-koishi-registry)**  
+  https://kp.itzdrli.cc/ (official, with private program)
+  
+- **[q78kg-koishi-registry](https://github.com/koishi-registry/q78kg-koishi-registry)**  
+  https://koishi-registry.yumetsuki.moe/index.json (official, static generated)
+
+<h2 align="center">
   Registry Implementation
 </h2>
 

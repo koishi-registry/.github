@@ -38,4 +38,8 @@
 <a href="https://github.com/koishi-registry/categories/">
   <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=categories&theme=dracula" />
 </a>
+
+<a href="https://github.com/koishi-registry/insecures/">
+<img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=insecures&theme=dracula" />
+</a>
 </div>

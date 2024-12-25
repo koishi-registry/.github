@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/Hoshino-Yumetsuki/koishi-registry/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoshino-Yumetsuki&repo=koishi-registry&theme=dracula" />
+  <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=q78kg-koishi-registry&theme=dracula" />
 </a>
 </div>
 

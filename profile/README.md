@@ -12,11 +12,11 @@
 
 <div align="center">
 <a href="https://github.com/koishi-registry/cyan-koishi-registry/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=koishi-registry&repo=cyan-koishi-registry&theme=dracula" />
+  <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=cyan-koishi-registry&theme=dracula" />
 </a>
 
 <a href="https://github.com/Hoshino-Yumetsuki/koishi-registry/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Hoshino-Yumetsuki&repo=koishi-registry&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoshino-Yumetsuki&repo=koishi-registry&theme=dracula" />
 </a>
 </div>
 
@@ -26,6 +26,6 @@
 
 <div align="center">
 <a href="https://github.com/koishi-registry/category/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=koishi-registry&repo=category&theme=dracula" />
+  <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=category&theme=dracula" />
 </a>
 </div>

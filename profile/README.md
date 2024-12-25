@@ -25,7 +25,7 @@
 </h2>
 
 <div align="center">
-<a href="https://github.com/koishi-registry/category/">
+<a href="https://github.com/koishi-registry/categories/">
   <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=categories&theme=dracula" />
 </a>
 </div>

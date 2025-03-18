@@ -10,23 +10,23 @@
   Registry Sources
 </h2>
 
-- **[cyan-koishi-registry](https://github.com/koishi-registry/cyan-koishi-registry)**  
-  https://kp.itzdrli.cc/ (official, with private program)
-  
 - **[q78kg-koishi-registry](https://github.com/koishi-registry/q78kg-koishi-registry)**  
   https://koishi-registry.yumetsuki.moe/index.json (official, static generated)
+
+- **[cyan-koishi-registry](https://github.com/koishi-registry/cyan-koishi-registry)**  
+  https://kp.itzdrli.cc/ (official, with private program)
 
 <h2 align="center">
   Registry Implementation
 </h2>
 
 <div align="center">
-<a href="https://github.com/koishi-registry/cyan-koishi-registry/">
-  <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=cyan-koishi-registry&theme=dracula" />
-</a>
-
 <a href="https://github.com/Hoshino-Yumetsuki/koishi-registry/">
   <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=q78kg-koishi-registry&theme=dracula" />
+</a>
+
+<a href="https://github.com/koishi-registry/cyan-koishi-registry/">
+  <img align="center" src="https://readme-status.cyans.me/api/pin/?username=koishi-registry&repo=cyan-koishi-registry&theme=dracula" />
 </a>
 </div>
 

@@ -10,11 +10,11 @@
   Registry Sources
 </h2>
 
-- **[q78kg-koishi-registry](https://github.com/koishi-registry/q78kg-koishi-registry)**  
-  https://koishi-registry.yumetsuki.moe/index.json (official, static generated)
-
 - **[cyan-koishi-registry](https://github.com/koishi-registry/cyan-koishi-registry)**  
   https://kp.itzdrli.cc/ (official, with private program)
+
+- **[q78kg-koishi-registry](https://github.com/koishi-registry/q78kg-koishi-registry)**  
+  https://koishi-registry.yumetsuki.moe/index.json (official, static generated)
 
 <h2 align="center">
   Registry Implementation
